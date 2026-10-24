@@ -2,7 +2,8 @@
 > **The Placement LMS for Engineering Colleges Across India**  
 > Built with **React 19**, **TypeScript**, **Tailwind CSS**, and **Vite**.
 
-Reference website: [https://dkoder.co.in/](https://dkoder.co.in/)
+
+
 
 ---
 
