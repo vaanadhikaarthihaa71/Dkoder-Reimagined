@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dkoder-application",
+  "description": "Imported from GitHub: vaanadhikaarthihaa71/Dkoder-application",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
